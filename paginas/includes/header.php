@@ -1,54 +1,84 @@
-<html lang="pt-br">
+!DOCTYPE HTML>
+<html lang="en-US">
     <head>
         <meta charset="UTF-8">
-        <title>Contato</title>
+        <title>Projeto Senac Gastronomia</title>
+        <!--bootstrap-->
+        <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css"/>
 
-        <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css" />
-        <link rel="stylesheet" href="plugins/Icomoon/Icomoon.css" />
-        <link rel="stylesheet" href="assets/css/estilosite.css" />
-        <link rel="stylesheet" href="assets/img/" />
+        <!--plugins-->
+        <link rel="stylesheet" href="plugins/Icomoon/Icomoon.css"/>
+
+        <!--Meu CSS-->
+        <link rel="stylesheet" href="estilo/administrativa.css"/>
     </head>
+
     <body>
 
-        <header class="container col-sm ">
-            <!--!--cabeçalho-->
-            <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-                <div class="carousel-inner">
-                    <div class="carousel-item active">
-                        <img class="d-block w-100" src="assets/img/imgheader1.jpg" alt="Primeiro Slide">
-                    </div>
-                    <div class="carousel-item">
-                        <img class="d-block w-100" src="assets/img/imgheader2.jpg" alt="Segundo Slide">
-                    </div>
-                    <div class="carousel-item">
-                        <img class="d-block w-100" src="assets/img/imgheader3.jpg" alt="Terceiro Slide">
-                    </div>
-                </div>
-            </div>
-            <div><img src="" alt="" />
-                <!--navegação-->
-               <nav class="navbar navbar-expand-lg navbar-primary bg-primary">
-<!--                    <a class="navbar-brand" href="#">Navbar</a>-->
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado" aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
 
+        <!-- Menu NAvBAR -->
+
+        <div class="container-fluid table-light alert-link">
+            <div class="container">
+                <div class="row">
+                    <div class="col-4"></div>
+
+                    <div class="col-4"></div>
+                </div>
+                <nav class="navbar  navbar-expand-lg navbar-info">
+                    <img src="assets/img/logo_senac.png" alt="" class=" p-5 w-25">
+                    <a class="navbar-brand" href="#"></a>
                     <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
                         <ul class="navbar-nav mr-auto">
-                            <li class="nav-item active"><a class="nav-link" href="?pg=inicio">Início <span class="sr-only">(página atual)</span></a></li>
-                            <li class="nav-item active"><a class="nav-link" href="?pg=sobre">Sobre <span class="sr-only">(página atual)</span></a></li>
-                            <li class="nav-item active"><a class="nav-link" href="?pg=servicos">Grades <span class="sr-only">(página atual)</span></a></li>
-                            <li class="nav-item active"><a class="nav-link" href="?pg=produtos">Novidades <span class="sr-only">(página atual)</span></a></li>
-                            <li class="nav-item active"><a class="nav-link" href="?pg=contato">Contato <span class="sr-only">(página atual)</span></a></li>
-                            
-                            
-                            
+                            <li class="nav-item active">
+                                <a class="nav-link" href="index.php?pg=inicial"> <span class=""> </span> Inicial </a></li>
+                            <li class="nav-item active">
+                                <a class="nav-link " href="index.php?pg=inicial"> <span class=""> </span> Destaques </a></li>
+                            <li class="nav-item active">
+                                <a class="nav-link " href="index.php?pg=sobre"><span class=""></span>Sobre</a></li>
+                            <li class="nav-item active">
+                                <a class="nav-link " href="index.php?pg=contato"> <span class=""> Contato</span></a></li>
                         </ul>
-                        <form class="form-inline my-2 my-lg-0">
-                            <input class="form-control mr-sm-2" type="search" placeholder="Pesquisar" aria-label="Pesquisar">
-                            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Pesquisar</button>
-                        </form>
+                        
+
+
+
+
                     </div>
                 </nav>
-            </div> <!-- fim navegação-->
-        </header> 
+
+                <hr>
+
+                <!-- Header -->
+
+
+            </div>
+            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img class="d-block w-100" src="assets/img/IMG1.jpg" alt="Primeiro Slide">
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="assets/img/IMG2.jpg" alt="Segundo Slide">
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="assets/img/IMG3.jpg" alt="Terceiro Slide">
+                    </div>
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Anterior</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Próximo</span>
+                </a>
+            </div>
+
+    </body>
+</html>
