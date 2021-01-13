@@ -27,7 +27,7 @@
             </div>
             <div><img src="" alt="" />
                 <!--navegação-->
-               <nav class="navbar navbar-expand-lg navbar-primary bg-primary">
+               <nav class="navbar navbar-expand-lg text-secondary bg-primary">
 <!--                    <a class="navbar-brand" href="#">Navbar</a>-->
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado" aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
                         <span class="navbar-toggler-icon"></span>
@@ -35,11 +35,11 @@
 
                     <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
                         <ul class="navbar-nav mr-auto">
-                            <li class="nav-item active"><a class="nav-link" href="?pg=inicio">Início <span class="sr-only">(página atual)</span></a></li>
-                            <li class="nav-item active"><a class="nav-link" href="?pg=sobre">Sobre <span class="sr-only">(página atual)</span></a></li>
-                            <li class="nav-item active"><a class="nav-link" href="?pg=servicos">Grades <span class="sr-only">(página atual)</span></a></li>
-                            <li class="nav-item active"><a class="nav-link" href="?pg=produtos">Novidades <span class="sr-only">(página atual)</span></a></li>
-                            <li class="nav-item active"><a class="nav-link" href="?pg=contato">Contato <span class="sr-only">(página atual)</span></a></li>
+                            <li class="nav-item active"><a class="nav-link text-white" href="?pg=inicio">Início <span class="sr-only">(página atual)</span></a></li>
+                            <li class="nav-item active"><a class="nav-link text-white" href="?pg=sobre">Sobre <span class="sr-only">(página atual)</span></a></li>
+                            <li class="nav-item active"><a class="nav-link text-white" href="?pg=servicos">Grades <span class="sr-only">(página atual)</span></a></li>
+                            <li class="nav-item active"><a class="nav-link text-white" href="?pg=produtos">Novidades <span class="sr-only">(página atual)</span></a></li>
+                            <li class="nav-item active"><a class="nav-link text-white" href="?pg=contato">Contato <span class="sr-only">(página atual)</span></a></li>
                             
                             
                             
