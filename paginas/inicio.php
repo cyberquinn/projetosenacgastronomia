@@ -63,6 +63,7 @@
     </div>
     <div class="row p-3">
         <div class="col bordas-laterais text-center px-5 py-4">
+            
             <h2>Mussum Pissium</h2>
             <p class="text-justify">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                 when an unknown printer took a galley of type and scrambled it to make a type specimen book.
