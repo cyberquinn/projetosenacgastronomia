@@ -26,7 +26,7 @@
             <p class="text-justify font-weight-normal ">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                 when an unknown printer took a galley of type and scrambled it to make a type specimen book.
             </p>
-            <button class="btn btn-success"><span class=" Juli-zoom-in"></span> Ver mais</button>
+            <button class="btn btn-primary"><span class=" Juli-zoom-in"></span> Ver mais</button>
         </div>
         <div class="col bordas-laterais text-center mx-3 py-4 text-black">
             <img class="img-fluid w-100" src="assets/img/imginicial3.jpg" alt=""/>
@@ -34,7 +34,7 @@
             <p class="text-justify font-weight-normal">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                 when an unknown printer took a galley of type and scrambled it to make a type specimen book.
             </p>
-            <button class="btn btn-success"><span class=" Juli-zoom-in"></span> Ver mais</button>
+            <button class="btn btn-primary"><span class=" Juli-zoom-in"></span> Ver mais</button>
 
         </div>
     </div>
@@ -45,7 +45,7 @@
             <p class="text-justify font-weight-normal">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                 when an unknown printer took a galley of type and scrambled it to make a type specimen book.
             </p>
-            <button class="btn btn-success"><span class=" Juli-zoom-in"></span> Ver mais</button>
+            <button class="btn btn-primary"><span class=" Juli-zoom-in"></span> Ver mais</button>
         </div>
         <div class="col bordas-laterais text-center mx-3 py-4 text-black">
             <img class="img-fluid w-100" src="assets/img/imginicial5.jpg" alt=""/>
@@ -53,7 +53,7 @@
             <p class="text-justify font-weight-normal">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                 when an unknown printer took a galley of type and scrambled it to make a type specimen book.
             </p>
-            <button class="btn btn-success"><span class=" Juli-zoom-in"></span> Ver mais</button>
+            <button class="btn btn-primary"><span class=" Juli-zoom-in"></span> Ver mais</button>
         </div>
 
     </div>
@@ -64,7 +64,7 @@
             <p class="text-justify font-weight-normal">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                 when an unknown printer took a galley of type and scrambled it to make a type specimen book.
             </p>
-            <button class="btn btn-success"><span class=" Juli-zoom-in"></span> Ver mais</button>
+            <button class="btn btn-primary"><span class=" Juli-zoom-in"></span> Ver mais</button>
         </div>
         <div class="col bordas-laterais text-center mx-3 py-4 text-black">
             <img class="img-fluid w-100" src="assets/img/imginicial7.jpg" alt=""/>
@@ -72,7 +72,7 @@
             <p class="text-justify font-weight-normal">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                 when an unknown printer took a galley of type and scrambled it to make a type specimen book.
             </p>
-            <button class="btn btn-success"><span class=" Juli-zoom-in"></span> Ver mais</button>
+            <button class="btn btn-primary"><span class=" Juli-zoom-in"></span> Ver mais</button>
         </div>
 
     </div>
