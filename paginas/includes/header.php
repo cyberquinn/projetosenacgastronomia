@@ -37,8 +37,8 @@
                         <ul class="navbar-nav mr-auto">
                             <li class="nav-item active"><a class="nav-link" href="?pg=inicio">Início <span class="sr-only">(página atual)</span></a></li>
                             <li class="nav-item active"><a class="nav-link" href="?pg=sobre">Sobre <span class="sr-only">(página atual)</span></a></li>
-                            <li class="nav-item active"><a class="nav-link" href="?pg=servicos">Grades <span class="sr-only">(página atual)</span></a></li>
-                            <li class="nav-item active"><a class="nav-link" href="?pg=produtos">Novidades <span class="sr-only">(página atual)</span></a></li>
+                            <li class="nav-item active"><a class="nav-link" href="?pg=grades">Grades <span class="sr-only">(página atual)</span></a></li>
+                            <li class="nav-item active"><a class="nav-link" href="?pg=novidades">Novidades <span class="sr-only">(página atual)</span></a></li>
                             <li class="nav-item active"><a class="nav-link" href="?pg=contato">Contato <span class="sr-only">(página atual)</span></a></li>
                             
                             

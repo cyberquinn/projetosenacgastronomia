@@ -11,7 +11,7 @@ if ($pg) {
 
         case 'inicio':
             include_once 'paginas/includes/header.php';
-            include_once 'paginas/inicio.php';
+            include_once './paginas/inicio.php';
             include_once 'paginas/includes/footer.php';
             break;
 
@@ -28,13 +28,13 @@ if ($pg) {
             break;
 
         case 'novidades':
-           include_once 'paginas/includes/header.php';
+            include_once 'paginas/includes/header.php';
             include_once 'paginas/novidades.php';
             include_once 'paginas/includes/footer.php';
             break;
-        
+
         case 'contato':
-           include_once 'paginas/includes/header.php';
+            include_once 'paginas/includes/header.php';
             include_once 'paginas/contato.php';
             include_once 'paginas/includes/footer.php';
             break;
