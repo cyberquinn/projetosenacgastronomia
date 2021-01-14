@@ -1,4 +1,4 @@
-!DOCTYPE HTML>
+<!DOCTYPE HTML>
 <html lang="en-US">
     <head>
         <meta charset="UTF-8">
@@ -10,7 +10,7 @@
         <link rel="stylesheet" href="plugins/Icomoon/Icomoon.css"/>
 
         <!--Meu CSS-->
-        <link rel="stylesheet" href="estilo/administrativa.css"/>
+        <link rel="stylesheet" href="assets/css/estilosite.css"/>
     </head>
 
     <body>
@@ -31,13 +31,13 @@
                     <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
                         <ul class="navbar-nav mr-auto">
                             <li class="nav-item active">
-                                <a class="nav-link" href="index.php?pg=inicial"> <span class=""> </span> Inicial </a></li>
+                                <a class="nav-link" href="?pg=inicio"> <span class=""> </span> Inicial </a></li>
                             <li class="nav-item active">
-                                <a class="nav-link " href="index.php?pg=inicial"> <span class=""> </span> Destaques </a></li>
+                                <a class="nav-link " href="?pg=destaque"> <span class=""> </span> Destaques </a></li>
                             <li class="nav-item active">
-                                <a class="nav-link " href="index.php?pg=sobre"><span class=""></span>Sobre</a></li>
+                                <a class="nav-link " href="?pg=sobre"><span class=""></span>Sobre</a></li>
                             <li class="nav-item active">
-                                <a class="nav-link " href="index.php?pg=contato"> <span class=""> Contato</span></a></li>
+                                <a class="nav-link " href="?pg=contato"> <span class=""> Contato</span></a></li>
                         </ul>
                         
 

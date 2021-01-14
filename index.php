@@ -27,9 +27,9 @@ if ($pg) {
             include_once 'paginas/includes/footer.php';
             break;
 
-        case 'novidades':
+        case 'destaque':
            include_once 'paginas/includes/header.php';
-            include_once 'paginas/novidades.php';
+            include_once 'paginas/destaque.php';
             include_once 'paginas/includes/footer.php';
             break;
         
