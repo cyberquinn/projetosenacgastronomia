@@ -1,7 +1,7 @@
  
-<div class="container my-5 ">
+<div class="container my-3 ">
     <div class="row">
-        <div class="col">
+        <div class="col p-3 mx-3 height-auto ">
             <div class="row">
                 <img src="assets/img/imgheader1.jpg" alt=""/>
             </div>
@@ -12,7 +12,8 @@
             <p class="text-justify"> Chegou a hora de colocar a mão na massa para realizar o seu sonho de ser um chef renomado na cozinha. 
                 O Curso Superior de Tecnologia em Gastronomia possibilita que você desenvolva competências com muita segurança, compreendendo o processo produtivo do alimento aliado às técnicas de cozinha. 
                 E a receita é simples: combinando conhecimentos clássicos, modernos e tecnológicos.
-             O curso é autorizado pela portaria MEC/SETEC nº 503/2007, de 19/9/2007 – DOU 13/9/2007.</p>
+             O curso é autorizado pela portaria MEC/SETEC nº 503/2007, de 19/9/2007 – DOU 13/9/2007,
+            reconhecido pela Portaria nº 305, de 27 de dezembro de 2012, publicada no Diário Oficial da União em 31/12/2012.</p>
         </div>
     </div>
     <hr>
