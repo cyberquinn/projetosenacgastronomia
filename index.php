@@ -11,7 +11,7 @@ if ($pg) {
 
         case 'inicio':
             include_once 'paginas/includes/header.php';
-            include_once 'paginas/inicio.php';
+            include_once './paginas/inicial.php';
             include_once 'paginas/includes/footer.php';
             break;
 

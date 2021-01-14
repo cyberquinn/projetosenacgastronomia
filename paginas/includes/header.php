@@ -1,5 +1,4 @@
-!DOCTYPE HTML>
-<html lang="en-US">
+<html lang="pt-BR">
     <head>
         <meta charset="UTF-8">
         <title>Projeto Senac Gastronomia</title>
@@ -11,6 +10,17 @@
 
         <!--Meu CSS-->
         <link rel="stylesheet" href="estilo/administrativa.css"/>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+        <meta name="apple-mobile-web-app-   capable" content="yes">
+
+        <meta name="mobile-web-app-capable" content="yes">
+
+        <link rel="shortcut icon" href="https://www.dn.senac.br/wp-content/themes/senac/favicon.ico">
+
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i" rel="stylesheet">
+
     </head>
 
     <body>
@@ -31,19 +41,14 @@
                     <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
                         <ul class="navbar-nav mr-auto">
                             <li class="nav-item active">
-                                <a class="nav-link" href="index.php?pg=inicial"> <span class=""> </span> Inicial </a></li>
+                                <a class="nav-link" href="?pg=inicio"> <span class=""> </span> Inicial </a></li>
                             <li class="nav-item active">
-                                <a class="nav-link " href="index.php?pg=inicial"> <span class=""> </span> Destaques </a></li>
+                                <a class="nav-link " href="?novidades"> <span class=""> </span> Destaques </a></li>
                             <li class="nav-item active">
-                                <a class="nav-link " href="index.php?pg=sobre"><span class=""></span>Sobre</a></li>
+                                <a class="nav-link " href="?pg=sobre"><span class=""></span>Sobre</a></li>
                             <li class="nav-item active">
-                                <a class="nav-link " href="index.php?pg=contato"> <span class=""> Contato</span></a></li>
+                                <a class="nav-link " href="?pg=contato"> <span class=""> Contato</span></a></li>
                         </ul>
-                        
-
-
-
-
                     </div>
                 </nav>
 
