@@ -24,8 +24,6 @@
     </head>
 
     <body>
-
-
         <!-- Menu NAvBAR -->
 
         <div class="container-fluid table-light alert-link">
@@ -36,7 +34,7 @@
                     <div class="col-4"></div>
                 </div>
                 <nav class="navbar  navbar-expand-lg navbar-info">
-                    <img src="assets/img/logo_senac.png" alt="" class=" p-5 w-25">
+                    <img src="assets/img/logo_senac.png" alt="" class="img-fluid ">
                     <a class="navbar-brand" href="#"></a>
                     <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
                         <ul class="navbar-nav mr-auto">
@@ -48,6 +46,14 @@
                                 <a class="nav-link " href="?pg=sobre"><span class=""></span>Sobre</a></li>
                             <li class="nav-item active">
                                 <a class="nav-link " href="?pg=contato"> <span class=""> Contato</span></a></li>
+
+                            <nav class="social">
+                                <a href="https://www.facebook.com/SenacBrasil" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                <a href="https://www.instagram.com/senacbrasil/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                                <a href="https://twitter.com/SenacBrasil" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                <a href="http://www.linkedin.com/company/senac-brasil" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                                <a href="https://www.youtube.com/user/SenacNacional" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+                            </nav>
                         </ul>
                     </div>
                 </nav>
@@ -84,6 +90,5 @@
                     <span class="sr-only">Próximo</span>
                 </a>
             </div>
-
     </body>
 </html>
