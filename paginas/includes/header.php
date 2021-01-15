@@ -8,9 +8,14 @@
 
         <!--plugins-->
         <link rel="stylesheet" href="plugins/Icomoon/Icomoon.css"/>
+        <link rel="stylesheet" href="assets/css/estiloContato.css"/>
 
         <!--Meu CSS-->
         <link rel="stylesheet" href="assets/css/estilosite.css"/>
+        
+         <!--Css Páginas-->
+        <?php echo ($_GET['pg']=='contato')?'<link rel="stylesheet" href="assets/css/estiloContato.css"/>':''; ?>
+        <?php echo ($_GET['pg']=='inicio')?'<link rel="stylesheet" href="plugins/Icomoon/Icomoon.css"/>':''; ?>
     </head>
 
     <body>
@@ -39,7 +44,7 @@
                             <li class="nav-item active">
                                 <a class="nav-link " href="?pg=contato"> <span class=""> Contato</span></a></li>
                         </ul>
-                        
+
 
 
 
