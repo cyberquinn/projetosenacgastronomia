@@ -12,10 +12,15 @@
 
         <!--Meu CSS-->
         <link rel="stylesheet" href="assets/css/estilosite.css"/>
-        
-         <!--Css Páginas-->
-        <?php echo ($_GET['pg']=='contato')?'<link rel="stylesheet" href="assets/css/estiloContato.css"/>':''; ?>
-        <?php echo ($_GET['pg']=='inicio')?'<link rel="stylesheet" href="plugins/Icomoon/Icomoon.css"/>':''; ?>
+
+        <!--Css Páginas-->
+        <?php
+        $pg = isset($_GET['pg']);
+        if ($pg) {
+            echo ($_GET['pg'] == 'contato') ? '<link rel="stylesheet" href="assets/css/estiloContato.css"/>' : '';
+            echo ($_GET['pg'] == 'inicio') ? '<link rel="stylesheet" href="plugins/Icomoon/Icomoon.css"/>' : '';
+        }
+        ?>
     </head>
 
     <body>
