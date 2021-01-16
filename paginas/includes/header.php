@@ -11,6 +11,8 @@
 
         <!--Meu CSS-->
         <link rel="stylesheet" href="assets/css/estilosite.css"/>
+       <!--Meu CARD.CSS-->
+       <link rel="stylesheet" href="assets/css/card.css"/>
     </head>
 
     <body>
